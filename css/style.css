@@ -60,3 +60,155 @@ a{
 .part1{
     padding: 70px;
 }
+
+#main2{
+    text-align: center;
+    margin: 0 auto;
+    gap: 100px;
+    display: flex;
+    width: 1200px;
+    height: 200px;
+    padding-top: 150px;
+}
+#interiorwork{
+    width: 500px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    font-family: poppinsregular;
+}
+#interiorworkp{
+    padding-top: 10px;
+}
+#prp{
+    width: 500px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    font-family: poppinsregular;
+}
+#Realization{
+    width: 500px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    font-family: poppinsregular;
+}
+#realizationp{
+    padding-top: 10px;
+}
+#prpp{
+    padding-top: 10px;
+}
+.main2links{
+    color:black;
+    padding-right: 50px;
+}
+.main2linksdiv{
+    margin-top: 30px;
+}
+#main3{
+    height: 850px;
+    
+}
+.container3{
+    display: flex;
+    margin-top: 30px;
+}
+#callh21{
+    font-family: dmserifregular;
+    font-weight: 100;
+    font-size: 50px;
+    margin-top: 80px;
+    margin-left:70px ;
+}
+#callp{
+    width: 400px;
+    margin-left: 70px;
+    font-size: 16px;
+    margin-top: 20px;
+    font-family: poppinsregular;
+}
+#callimg{
+    margin: 70px;
+}
+#calllink{
+    background-color: black;
+    border-radius: 10px;
+    width: 200px;
+    text-align: center;
+    padding: 20px 40px;
+    color: white;
+    margin-left: 70px;
+}
+#phoneimg{
+    margin-left: 140px;
+    margin-top: 100px;
+    border-radius: 0 300px 0 100px;
+}
+#main4{
+    background-color: rgb(231, 230, 230);
+}
+#h2replydiv{
+    text-align: center;
+    margin: 0 auto;
+}
+#h2reply{
+    font-family: dmserifregular;
+    font-size: 50px;
+    font-weight: 100;
+}
+#block1{
+    margin-top: 30px;
+    background-color: white;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    width: 400px;
+}
+#natashaimg{
+    padding-left: 70px;
+    padding-top: 50px;
+}
+#block1p{
+    padding-top: 30px;
+    font-family: poppinsregular;
+    padding-left: 70px;
+    padding-bottom: 50px;
+}
+#blocks{
+    display: flex;
+}
+#block2{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    background-color: white;
+    border-radius: 10px;
+    width: 400px;
+}
+#raymondimg1{
+    padding-left: 70px;
+    padding-top: 50px;
+}
+#block2p{
+    padding-top: 30px;
+    font-family: poppinsregular;
+    padding-left: 70px;
+    padding-bottom: 50px;
+}
+#block3{
+     margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    background-color: white;
+    border-radius: 10px;
+    width: 400px;
+}
+#bennyimg{
+     padding-left: 70px;
+    padding-top: 50px;
+}
+#block3p{
+     padding-top: 30px;
+    font-family: poppinsregular;
+    padding-left: 70px;
+    padding-bottom: 50px;
+}
