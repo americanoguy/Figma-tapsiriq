@@ -212,3 +212,16 @@ a{
     padding-left: 70px;
     padding-bottom: 50px;
 }
+#main5{
+    border: 2px solid red;
+}
+#plan2{
+    background-color: white;
+    align-items: center;
+    padding-top: 10px;
+    gap: 100px;
+    display: flex;
+}
+#m5b1{
+    margin-left: 130px;
+}
